@@ -1,6 +1,6 @@
 ### Introduction
 
-PERN (postgres, express, react, node) is a framework that allows developers interested in these technologies to get up and running with a minimum of fuss. It's still a work in progress, but it has the following pieces:
+NERP (node, express, react, postgres) is a framework that allows developers interested in these technologies to get up and running with a minimum of fuss. It's still a work in progress, but it has the following pieces:
 
 * node/express backend for API calls
 * postgres database with minimal schema to demonstrate functionality
